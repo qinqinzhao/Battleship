@@ -2,7 +2,7 @@ Battleship is usually a two-player game, where each player has a fleet and an oc
 
 The computer places the ten ships on the ocean in such a way that no ships are immediately adjacent to each other, either horizontally, vertically, or diagonally. For example,
 
-
+<img src="https://github.com/qinqinzhao/Battleship_cit590_upenn_wk13/blob/master/battleship.PNG">
 
 The human player does not know where the ships are. The initial display of the ocean shows a 10 by 10 array of locations, all the same.
 
